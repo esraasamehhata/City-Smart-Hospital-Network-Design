@@ -1,23 +1,6 @@
 # 🏥 City Smart Hospital Network Design
 
-> **Course:** Computer Networks – CIE 447 / CIE 367  
-> **Institution:** Zewail City for Science and Technology  
-> **Instructor:** Dr. Mohamed Samir Eid  
-> **Semester:** Spring 2026
-
 A fully simulated enterprise-grade hospital network built in **Cisco Packet Tracer**, covering VLANs, inter-VLAN routing, OSPF, DHCP, NAT/PAT, DNS, redundancy/failover, and wireless access.
-
----
-
-## 👥 Team Members
-
-| Name | Student ID | Contribution |
-|------|-----------|-------------|
-| Mai Ibrahim | 202200504 | Topology design & physical connections |
-| Hassan Ahmed | 202202121 | IP addressing, VLANs, trunking, Router-on-a-Stick |
-| Aya Gaber | 202200288 | DHCP, DNS server, Web server, internal web access |
-| Israa Atta | 202001430 | OSPF routing & Remote Radiology Clinic integration |
-| Ahmed Gamal | 202200133 | NAT overload, ISP connectivity, failover testing, report |
 
 ---
 
@@ -193,3 +176,16 @@ DNS uses **UDP** (lightweight, connectionless, low overhead for small query/resp
 - **NAT/PAT** — many-to-one address translation for Internet access
 - **Redundancy design** — backup serial links in a critical-infrastructure network
 - **Protocol analysis** — TCP vs UDP behavior at the transport layer
+
+
+
+
+## 👥 Team Members
+
+| Name | Student ID | Contribution |
+|------|-----------|-------------|
+| Mai Ibrahim | 202200504 | Topology design & physical connections |
+| Hassan Ahmed | 202202121 | IP addressing, VLANs, trunking, Router-on-a-Stick |
+| Aya Gaber | 202200288 | DHCP, DNS server, Web server, internal web access |
+| Israa Atta | 202001430 | OSPF routing & Remote Radiology Clinic integration |
+| Ahmed Gamal | 202200133 | NAT overload, ISP connectivity, failover testing, report |
